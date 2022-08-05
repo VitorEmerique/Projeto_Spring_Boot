@@ -1,4 +1,4 @@
-package dio.spring;
+package one.digitalinovation.gof.singleton;
 
 public class SingletonLazy {
     private static SingletonLazy instancia;
